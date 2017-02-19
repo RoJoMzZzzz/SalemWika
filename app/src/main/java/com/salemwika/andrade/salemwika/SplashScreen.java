@@ -18,7 +18,7 @@ public class SplashScreen extends AppCompatActivity {
         ImageView ball = (ImageView) findViewById(R.id.imageView);
         ImageView cap = (ImageView) findViewById(R.id.imageView6);
 
-        Animation anim = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.push_down_in);
+        Animation anim = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.slide_in_right);
         Animation anim1 = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.slide_in_left);
 
         ball.setAnimation(anim);
