@@ -1,0 +1,857 @@
+<resources>
+    <string name="app_name">SalemWika</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="english">
+        <item>abdomen</item>
+        <item>abdominal pain</item>
+        <item>absorbent</item>
+        <item>a.c.</item>
+        <item>accordingly</item>
+        <item>ace inhibitor</item>
+        <item>acidity</item>
+        <item>ackled</item>
+        <item>acute</item>
+        <item>add</item>
+        <item>administer</item>
+        <item>adverse</item>
+        <item>adverse reaction/effect</item>
+        <item>after meals</item>
+        <item>aid</item>
+        <item>airways</item>
+        <item>amount</item>
+        <item>amplification</item>
+        <item>analgesic</item>
+        <item>anaphylaxis</item>
+        <item>anemia</item>
+        <item>anesthesia</item>
+        <item>anesthetic</item>
+        <item>angina pectoris</item>
+        <item>antacid</item>
+        <item>antagonist</item>
+        <item>anti-pyretic</item>
+        <item>anti-angina</item>
+        <item>antibiotic</item>
+        <item>anti-coagulant</item>
+        <item>anti-convulsant</item>
+        <item>anti-diarrhea</item>
+        <item>anti-fibrinolytic</item>
+        <item>anti-flatulence</item>
+        <item>anthelmintic</item>
+        <item>anti-histamine</item>
+        <item>anti-hypertensive</item>
+        <item>anti-platelet</item>
+        <item>anti-pruritic</item>
+        <item>anti-pyretic</item>
+        <item>anti-thrombotic</item>
+        <item>anti-tussive</item>
+        <item>appetite stimulant</item>
+        <item>apply</item>
+        <item>apply 3x a day</item>
+        <item>apply in an affected area</item>
+        <item>appropriate amount</item>
+        <item>a.q.</item>
+        <item>arthritis</item>
+        <item>as direct</item>
+        <item>as directed</item>
+        <item>as needed</item>
+        <item>asthma</item>
+        <item>at bedtime</item>
+        <item>at night</item>
+        <item>at the hour of</item>
+        <item>a.t.c. (around the clock)</item>
+        <item>aural</item>
+        <item>availabitlity</item>
+        <item>avoid contact with eyes</item>
+        <item>bacteriostatic</item>
+        <item>before meals</item>
+        <item>beta-blocker</item>
+        <item>between</item>
+        <item>between meals</item>
+        <item>b.i.d. (Twice a day)</item>
+        <item>binders</item>
+        <item>bleeding</item>
+        <item>blood</item>
+        <item>blood clot</item>
+        <item>blood pressure</item>
+        <item>blood transfusion</item>
+        <item>bloated</item>
+        <item>blurred</item>
+        <item>blurred vision</item>
+        <item>body weight</item>
+        <item>both ears</item>
+        <item>both eyes</item>
+        <item>bowel movement</item>
+        <item>bradychardia</item>
+        <item>brand name</item>
+        <item>breast feed</item>
+        <item>brightness of breathing</item>
+        <item>bronchitis</item>
+        <item>bronchoconstrictor</item>
+        <item>bronchodilator</item>
+        <item>bruises</item>
+        <item>buccal</item>
+        <item>by mouth</item>
+        <item>capsule</item>
+        <item>chemical name</item>
+        <item>chest pain</item>
+        <item>chew well before swallowing</item>
+        <item>chicken pox</item>
+        <item>chills</item>
+        <item>chronic</item>
+        <item>coffee</item>
+        <item>colds</item>
+        <item>combination of drugs</item>
+        <item>communicable disease</item>
+        <item>complicated</item>
+        <item>compounding</item>
+        <item>conjunctivitis</item>
+        <item>consecutive</item>
+        <item>constrict</item>
+        <item>contraindication</item>
+        <item>convulsion</item>
+        <item>cough</item>
+        <item>cough and colds</item>
+        <item>counsel</item>
+        <item>counselling</item>
+        <item>cramps</item>
+        <item>cure</item>
+        <item>daily</item>
+        <item>damage</item>
+        <item>dangerous</item>
+        <item>defecate</item>
+        <item>dehydration</item>
+        <item>dependence</item>
+        <item>depression</item>
+        <item>dextrose</item>
+        <item>diagnose</item>
+        <item>diagnosis</item>
+        <item>diluents</item>
+        <item>dilute</item>
+        <item>discontinue</item>
+        <item>disintegrate</item>
+        <item>dispense</item>
+        <item>disperse</item>
+        <item>disperse the tab in one tbsp of water</item>
+        <item>dissolve in one water</item>
+        <item>distilled water</item>
+        <item>distribution</item>
+        <item>diuretic</item>
+        <item>divide into half</item>
+        <item>dizziness</item>
+        <item>do not</item>
+        <item>do not repeat</item>
+        <item>dosage form</item>
+        <item>double dose</item>
+        <item>drops</item>
+        <item>drug interaction</item>
+        <item>each ear</item>
+        <item>each eye</item>
+        <item>ear</item>
+        <item>ear ache</item>
+        <item>emetic</item>
+        <item>ensure adequate fluid intake</item>
+        <item>epistaxis</item>
+        <item>equal parts</item>
+        <item>essential</item>
+        <item>estimated</item>
+        <item>every</item>
+        <item>everyday</item>
+        <item>every four hours</item>
+        <item>every hour</item>
+        <item>every six hours</item>
+        <item>every morning</item>
+        <item>every other day</item>
+        <item>exacerbate</item>
+        <item>exact</item>
+        <item>excessive drugs</item>
+        <item>external use only</item>
+        <item>eye</item>
+        <item>fatal</item>
+        <item>fatigue</item>
+        <item>filtrate</item>
+        <item>filtration</item>
+        <item>fine</item>
+        <item>first order kinetics</item>
+        <item>five</item>
+        <item>flatulence</item>
+        <item>flatulent</item>
+        <item>fleet</item>
+        <item>flu</item>
+        <item>for suspension</item>
+        <item>four</item>
+        <item>four times a day</item>
+        <item>f.t.</item>
+        <item>full stomach</item>
+        <item>gargle</item>
+        <item>give</item>
+        <item>glass full</item>
+        <item>glomerular filtration rate</item>
+        <item>gradual</item>
+        <item>gram</item>
+        <item>half-life</item>
+        <item>head ache</item>
+        <item>heart attack</item>
+        <item>heart failure</item>
+        <item>heart rate</item>
+        <item>hematinic</item>
+        <item>hypogylycemic</item>
+        <item>immediately</item>
+        <item>impairment</item>
+        <item>in water</item>
+        <item>incision</item>
+        <item>in digestion</item>
+        <item>inflammation</item>
+        <item>inhibitors</item>
+        <item>injection</item>
+        <item>insoluble</item>
+        <item>insomnia</item>
+        <item>instill</item>
+        <item>insufficient</item>
+        <item>intoxication</item>
+        <item>invert and shake well</item>
+        <item>itching</item>
+        <item>jaw</item>
+        <item>joint pain</item>
+        <item>keep</item>
+        <item>kill</item>
+        <item>knee</item>
+        <item>know</item>
+        <item>left ear</item>
+        <item>left eye</item>
+        <item>ligament</item>
+        <item>liniment</item>
+        <item>lipid/fats</item>
+        <item>lipidemia</item>
+        <item>liver disease</item>
+        <item>mandatory</item>
+        <item>may be taken before/after meals</item>
+        <item>may repeat</item>
+        <item>migraine</item>
+        <item>mild</item>
+        <item>moderate</item>
+        <item>milliliter</item>
+        <item>millimeter</item>
+        <item>mix</item>
+        <item>moisturizer</item>
+        <item>monthly</item>
+        <item>morning</item>
+        <item>muscle pain</item>
+        <item>NV (Nausea and Vomiting )</item>
+        <item>nasal drops</item>
+        <item>nausea</item>
+        <item>nebule</item>
+        <item>neutralize</item>
+        <item>night</item>
+        <item>not exceeding</item>
+        <item>not more than</item>
+        <item>numbness</item>
+        <item>of each</item>
+        <item>often</item>
+        <item>once a day</item>
+        <item>once cap six hourly</item>
+        <item>one</item>
+        <item>one cap twice a day</item>
+        <item>one half</item>
+        <item>one tab morning and evening</item>
+        <item>ophthalmic</item>
+        <item>o.t.c. (over the counter)</item>
+        <item>otic</item>
+        <item>o.u.</item>
+        <item>overdose</item>
+        <item>pain</item>
+        <item>part</item>
+        <item>p.c.</item>
+        <item>per bottle</item>
+        <item>pour</item>
+        <item>powderized</item>
+        <item>pregnancy</item>
+        <item>prescription</item>
+        <item>prevent</item>
+        <item>primary</item>
+        <item>p.r.n.</item>
+        <item>probit</item>
+        <item>productive cough</item>
+        <item>pyretic</item>
+        <item>q</item>
+        <item>q2h</item>
+        <item>q4h</item>
+        <item>q6h</item>
+        <item>q8h</item>
+        <item>rapid onset</item>
+        <item>rashes</item>
+        <item>recommended</item>
+        <item>reconstitute</item>
+        <item>reduce</item>
+        <item>reflux</item>
+        <item>related drugs</item>
+        <item>relief</item>
+        <item>relief of toothache</item>
+        <item>repeat</item>
+        <item>required</item>
+        <item>respiratory depressant</item>
+        <item>restriction</item>
+        <item>right ear</item>
+        <item>right eye</item>
+        <item>risk</item>
+        <item>r.o.a. (route of administration)</item>
+        <item>saturated</item>
+        <item>saturation</item>
+        <item>sedating</item>
+        <item>sedative</item>
+        <item>seizure</item>
+        <item>self-medication</item>
+        <item>seven</item>
+        <item>severe</item>
+        <item>shake</item>
+        <item>shake well</item>
+        <item>shortness of breath</item>
+        <item>signa</item>
+        <item>side</item>
+        <item>six</item>
+        <item>skin</item>
+        <item>smoke</item>
+        <item>sneeze</item>
+        <item>solution</item>
+        <item>sometimes</item>
+        <item>sore throat</item>
+        <item>spasm</item>
+        <item>sputum</item>
+        <item>storage</item>
+        <item>sublingual</item>
+        <item>subtherapeutic effect</item>
+        <item>such as</item>
+        <item>sufficient quantity</item>
+        <item>supress</item>
+        <item>suppressed cough</item>
+        <item>swallow</item>
+        <item>swell</item>
+        <item>tablespoon</item>
+        <item>tablet</item>
+        <item>tachychardia</item>
+        <item>take</item>
+        <item>teaspoon</item>
+        <item>temperature</item>
+        <item>three</item>
+        <item>TID</item>
+        <item>time interval</item>
+        <item>tinitis</item>
+        <item>to ensure</item>
+        <item>to make</item>
+        <item>to the painful part</item>
+        <item>tocopheral</item>
+        <item>tonsilitis</item>
+        <item>toothache</item>
+        <item>topical</item>
+        <item>toxic</item>
+        <item>toxicities</item>
+        <item>transmission</item>
+        <item>trigger</item>
+        <item>tucolytic</item>
+        <item>twice</item>
+        <item>two</item>
+        <item>ulcer</item>
+        <item>under the tongue</item>
+        <item>under dose</item>
+        <item>unsigned by doctor</item>
+        <item>up to</item>
+        <item>vaccine</item>
+        <item>validity</item>
+        <item>vasodilation</item>
+        <item>vertigo</item>
+        <item>vitamin</item>
+        <item>vomitting</item>
+        <item>water</item>
+        <item>weekly</item>
+        <item>wheeze</item>
+        <item>when required</item>
+        <item>while awake</item>
+        <item>whole</item>
+        <item>with food</item>
+        <item>worsen</item>
+
+    </string-array>
+
+    <string-array name="fil">
+        <item>tiyan</item>
+        <item>sakit sa tiyan</item>
+        <item>sumisisip</item>
+        <item>bago kumain</item>
+        <item>naalinsunod</item>
+        <item>pampababa ng blood pressure</item>
+        <item>pangangasim</item>
+        <item>kalma</item>
+        <item>pabalik-balik</item>
+        <item>magdadag</item>
+        <item>paraan ng pag inom</item>
+        <item>salungat</item>
+        <item>kaukulang epekto</item>
+        <item>pagkatapos kumain</item>
+        <item>nakakatulong</item>
+        <item>daluyan ng hangin sa katawan</item>
+        <item>bilang</item>
+        <item>paglaki</item>
+        <item>gamot para sa masakit</item>
+        <item>walang dugo na umiikot sa katawan</item>
+        <item>kulang sa dugo</item>
+        <item>kawalan ng pakiramdam</item>
+        <item>pangpamanhid</item>
+        <item>paninikip ng dibdib</item>
+        <item>gamot para pangpababa ng asido sa sikmura</item>
+        <item>kalaban</item>
+        <item>para sa lagnat</item>
+        <item>para matanggal o mawala ang paninikip ng dibdib</item>
+        <item>pangtanggal ng mga mikrobyo gamot laban sa mikrobyo</item>
+        <item>pangpalabnaw ng dugo</item>
+        <item>gamot para sa kombulsyon</item>
+        <item>para mapigilan ang pagtatae</item>
+        <item>pinapatigil ang pag durugo</item>
+        <item>pangpawala ng kabag</item>
+        <item>pangpurga, pang pawala ng bulate sa katawan</item>
+        <item>para sa pangangati</item>
+        <item>pang pababa ng alta presyon</item>
+        <item>pangpalabnaw ng dugo</item>
+        <item>para sa pangangati</item>
+        <item>para sa lagnat</item>
+        <item>iwas pamumuo ng dugo</item>
+        <item>para sa plemang makati sa lalamunan</item>
+        <item>pang pagana kumain</item>
+        <item>ipahid</item>
+        <item>ipahid tatlong beses sa isang araw</item>
+        <item>ipahid sa naapektuhang parte</item>
+        <item>tamang dami</item>
+        <item>tubig</item>
+        <item>rayuma</item>
+        <item>direkta, idinirekta</item>
+        <item>kung ano nasabi</item>
+        <item>kapag kailangan</item>
+        <item>hika</item>
+        <item>sa pagtulog</item>
+        <item>sa gabi</item>
+        <item>sa oras ng</item>
+        <item>sakto sa oras ang pag-inom at dapat walang palya</item>
+        <item>para sa tainga</item>
+        <item>mayroon</item>
+        <item>iwasan malagay sa mata</item>
+        <item>paghinto sa paglago ng mga bakterya</item>
+        <item>bago kumain</item>
+        <item>pangpababa ng altapresyon</item>
+        <item>sa pagitan</item>
+        <item>bawat pagkain</item>
+        <item>dalawang beses sa isang araw</item>
+        <item>Pandikit</item>
+        <item>pagdurugo</item>
+        <item>dugo</item>
+        <item>pamumuo ng dugo</item>
+        <item>pagtaas at pagbaba ng dugo</item>
+        <item>paglipat ng dugo o pagsalin ng dugo</item>
+        <item>kinakabagan</item>
+        <item>malabo</item>
+        <item>malabong paningin</item>
+        <item>timbang , bigat</item>
+        <item>parehong tainga</item>
+        <item>parehong mata</item>
+        <item>pagdumi</item>
+        <item>mabagal na pagtibok ng puso</item>
+        <item>pangalan mula sa gumawa ng gamot</item>
+        <item>pagsuso mula sa nanay</item>
+        <item>hirap huminga</item>
+        <item>pulmonya o sakit sa baga</item>
+        <item>pinapasikip ang daanan ng hangin sa katawan</item>
+        <item>pampaluwag ng daluyan ng hangin</item>
+        <item>pasa</item>
+        <item>gilagid</item>
+        <item>sa pamamagitan ng bibig</item>
+        <item>kapsula</item>
+        <item>paglalarawan ng mga kemikal na istraktura</item>
+        <item>pananakit ng dibdib</item>
+        <item>nguyain mabuti bago lunukin</item>
+        <item>bulutong</item>
+        <item>nilalamig</item>
+        <item>pang matagalan</item>
+        <item>kape</item>
+        <item>sipon</item>
+        <item>kombinasyon ng gamot</item>
+        <item>nakakahawang sakit</item>
+        <item>komplikado</item>
+        <item>pag hahalo</item>
+        <item>pamumula ng mata</item>
+        <item>sunod sunod na araw</item>
+        <item>pinapasikip</item>
+        <item>di dapat inumin kapag</item>
+        <item>kumbolsyon</item>
+        <item>ubo</item>
+        <item>ubo\'t sipon</item>
+        <item>pagbigay payo sa pasyente</item>
+        <item>pagbibigay payo sa pasyente</item>
+        <item>pulikat</item>
+        <item>lunas</item>
+        <item>araw-araw</item>
+        <item>sira</item>
+        <item>delikado</item>
+        <item>pagtae o pagdumi</item>
+        <item>panunuyo</item>
+        <item>nakadepende</item>
+        <item>depresyon</item>
+        <item>swero</item>
+        <item>magparikonosi</item>
+        <item>pagsusuri</item>
+        <item>pampalasa</item>
+        <item>tunawin</item>
+        <item>ihinto</item>
+        <item>paghihiwalayin</item>
+        <item>paghanda at pagbigay ng gamot</item>
+        <item>tunawin</item>
+        <item>tunawin muna sa isang kutsarang may tubig bago inumin</item>
+        <item>tunawin sa tubig</item>
+        <item>dalisay na tubig</item>
+        <item>pamamahagi</item>
+        <item>katulong sa pag-ihi</item>
+        <item>hatiin sa dalawa</item>
+        <item>pagkahilo</item>
+        <item>huwag</item>
+        <item>huwag ulitin</item>
+        <item>klase ng gamot na iinumin</item>
+        <item>doblehin ang pag inom ng gamot</item>
+        <item>patak</item>
+        <item>interaksyon ng magkaibang gamot kapag ininom</item>
+        <item>bawat tainga</item>
+        <item>bawat mata</item>
+        <item>tainga</item>
+        <item>kirot sa tainga</item>
+        <item>pagsusuka</item>
+        <item>tamang dami ng tubig sa paginom</item>
+        <item>pagdugo sa ilong</item>
+        <item>pantay sa bawat isa</item>
+        <item>kailangan</item>
+        <item>tinatantya</item>
+        <item>tuwing</item>
+        <item>araw-araw</item>
+        <item>tuwing apat na oras</item>
+        <item>kada oras</item>
+        <item>kada anim na oras</item>
+        <item>tuwing umaga</item>
+        <item>kada sunod na araw</item>
+        <item>pinapalala</item>
+        <item>sakto, saktong….</item>
+        <item>sobra-sobrang gamot</item>
+        <item>sa labas ng parte ng katawan lamang</item>
+        <item>mata</item>
+        <item>nakamamatay</item>
+        <item>pagkapagod</item>
+        <item>pagsala</item>
+        <item>pagsasala</item>
+        <item>pino</item>
+        <item>ang mga gamot aya naalis ayon sa unang kinetics order</item>
+        <item>lima</item>
+        <item>kabag</item>
+        <item>sobrang pag utot</item>
+        <item>mabilis</item>
+        <item>trangkaso</item>
+        <item>para sa suspensyon</item>
+        <item>apat</item>
+        <item>apat na beses sa isang araw</item>
+        <item>gumawa</item>
+        <item>may laman ang tiyan</item>
+        <item>imumog</item>
+        <item>ibigay</item>
+        <item>punong baso</item>
+        <item>lumilitaw</item>
+        <item>dahan-dahan</item>
+        <item>gramo</item>
+        <item>ang halaga ng oras para sa mga kahihinatnan ng isang proseso upangdagdagan o bawasan ng 50%</item>
+        <item>masakit na ulo</item>
+        <item>atake sa puso</item>
+        <item>pagbaba ng tibok ng puso</item>
+        <item>pulso</item>
+        <item>pangpadagdag ng dugo</item>
+        <item>mababang lebel ng asukal sa dugo</item>
+        <item>kaagad</item>
+        <item>pagpapahina</item>
+        <item>sa tubig</item>
+        <item>paghina</item>
+        <item>di natunawan</item>
+        <item>pamamaga</item>
+        <item>pumipigil</item>
+        <item>pangturok</item>
+        <item>hindi natutunaw</item>
+        <item>hirap sa pagtulog</item>
+        <item>magpatak</item>
+        <item>kulang</item>
+        <item>pag kalason</item>
+        <item>ibaligtad at haluing mabuti</item>
+        <item>pangangati</item>
+        <item>panga</item>
+        <item>pananakit ng kasu-kasuan</item>
+        <item>itago, store</item>
+        <item>patayin</item>
+        <item>tuhod</item>
+        <item>alam</item>
+        <item>kaliwang tainga</item>
+        <item>kaliwang mata</item>
+        <item>litid</item>
+        <item>panghaplas</item>
+        <item>taba</item>
+        <item>kolesterol</item>
+        <item>sakit sa atay</item>
+        <item>sapilitan</item>
+        <item>maaring inumin bago o pagkatapos kumain</item>
+        <item>maaring maulit</item>
+        <item>labis na pag sakit ng ulo</item>
+        <item>banayad</item>
+        <item>katamtaman</item>
+        <item>mililitro</item>
+        <item>milimetro</item>
+        <item>haluin</item>
+        <item>pang palambot</item>
+        <item>buwanan</item>
+        <item>umaga</item>
+        <item>pananakit ng kasu kasuan</item>
+        <item>hilo at pagsusuka</item>
+        <item>pang patak sa ilong</item>
+        <item>pagkahilo</item>
+        <item>pampausok</item>
+        <item>binabalanse</item>
+        <item>gabi</item>
+        <item>hindi lalagpas</item>
+        <item>hindi sosobra</item>
+        <item>namamanhid</item>
+        <item>bawat </item>
+        <item>madalas</item>
+        <item>isang beses sa isang araw</item>
+        <item>isang kapsula kada anim na oras</item>
+        <item>isa</item>
+        <item>isang kapsula , dalawang beses sa isang araw</item>
+        <item>kalahati</item>
+        <item>isang tableta , umaga at gabi</item>
+        <item>preperasyon na gamot sa mata</item>
+        <item>gamot na nabibili ng walang reseta</item>
+        <item>para sa </item>
+        <item>each eye</item>
+        <item>nasobrahan sa pag inom</item>
+        <item>sakit</item>
+        <item>parte</item>
+        <item>pagkatapos kumain</item>
+        <item>kada bote</item>
+        <item>ibuhos</item>
+        <item>pag durog</item>
+        <item>pagbubuntis</item>
+        <item>reseta</item>
+        <item>maiwasan</item>
+        <item>pangunahin</item>
+        <item>as needed</item>
+        <item>pagsalin ng datos</item>
+        <item>ubong may kasamang plema</item>
+        <item>lagnat</item>
+        <item>tuwing</item>
+        <item>kada dalawang oras</item>
+        <item>kada apat na oras</item>
+        <item>kada anim na oras</item>
+        <item>kada walong oras</item>
+        <item>mabilisang epekto</item>
+        <item>pamamantal</item>
+        <item>iminungkahi</item>
+        <item>magdagdag ng tubig</item>
+        <item>bawasan</item>
+        <item>bumabalik</item>
+        <item>magkaparehing gamot</item>
+        <item>guminhawa</item>
+        <item>pag ginhawa ng sakit sa ngipin</item>
+        <item>ulitin</item>
+        <item>kinakailangan</item>
+        <item>hindi makahinga</item>
+        <item>pag bawal</item>
+        <item>kanang tainga</item>
+        <item>kanang mata</item>
+        <item>maaring makasama</item>
+        <item>paraan ng pag gamot</item>
+        <item>puspos</item>
+        <item>pagbababad</item>
+        <item>nakakaantok</item>
+        <item>pang paantok</item>
+        <item>manginginig</item>
+        <item>paginom ayon sa kanyang nais</item>
+        <item>pito</item>
+        <item>malala</item>
+        <item>alogin</item>
+        <item>aloging mabuti</item>
+        <item>kapos na paghinga</item>
+        <item>paano inumin ang gamot</item>
+        <item>gilid</item>
+        <item>anim</item>
+        <item>balat</item>
+        <item>paninigarilyo</item>
+        <item>pagbahing</item>
+        <item>solusyon</item>
+        <item>minsan</item>
+        <item>pamamaga ng lalamunan</item>
+        <item>manhid</item>
+        <item>plema</item>
+        <item>lagayan ng gamot</item>
+        <item>sa ilalim ng dila</item>
+        <item>hindi nakamit ang epekto ng gamot na ininom</item>
+        <item>kagaya ng</item>
+        <item>tamang dami</item>
+        <item>pahinain</item>
+        <item>lunukin ang gamot na may kalahating baso ng tubig</item>
+        <item>lunukin</item>
+        <item>pamamaga</item>
+        <item>kutsara</item>
+        <item>tableta</item>
+        <item>mabilis na pag tibok ng puso</item>
+        <item>kunin</item>
+        <item>kutsarita</item>
+        <item>temperatura</item>
+        <item>tatlo</item>
+        <item>tatlong beses sa isang araw</item>
+        <item>oras na pagitan</item>
+        <item>pagkabingi</item>
+        <item>para makasigurado</item>
+        <item>para makagawa</item>
+        <item>para sa masakit na parte</item>
+        <item>pinapahid</item>
+        <item>pamamaga ng lalamunan</item>
+        <item>sakit sa ipin</item>
+        <item>sa labas ng balat</item>
+        <item>lason</item>
+        <item>pagkalason</item>
+        <item>paglipat</item>
+        <item>dahilan ng sakit</item>
+        <item>pang pakapit</item>
+        <item>dalawang beses</item>
+        <item>dalawa</item>
+        <item>pagsusugat ng sikmura</item>
+        <item>sa ilalim ng dila</item>
+        <item>kulang ang ininom na gamot</item>
+        <item>walang pirma ng doktor</item>
+        <item>hanggang sa</item>
+        <item>bakuna</item>
+        <item>bisa</item>
+        <item>pagluwag ng ugat</item>
+        <item>pagkahilo</item>
+        <item>bitamina</item>
+        <item>pagsusuka</item>
+        <item>tubig</item>
+        <item>linggo-linggo</item>
+        <item>paghinga ng malakas</item>
+        <item>kung kinakailangan</item>
+        <item>hanggang gising</item>
+        <item>buo</item>
+        <item>may kinain</item>
+        <item>pinapalala</item>
+    </string-array>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    <string name="sel">Select a Letter</string>
+
+    <string-array name="find">
+        <item>Show All</item>
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+        <item>n</item>
+        <item>o</item>
+        <item>p</item>
+        <item>q</item>
+        <item>r</item>
+        <item>s</item>
+        <item>t</item>
+        <item>u</item>
+        <item>v</item>
+        <item>w</item>
+        <item>x</item>
+        <item>y</item>
+        <item>z</item>
+    </string-array>
+
+</resources>

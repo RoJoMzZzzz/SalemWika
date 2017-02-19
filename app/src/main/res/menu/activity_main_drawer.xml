@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_trans"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="Translation" />
+        <item
+            android:id="@+id/nav_recent"
+            android:icon="@android:drawable/ic_menu_recent_history"
+            android:title="Recent" />
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@android:drawable/star_big_off"
+            android:title="Favorites" />
+        <item
+            android:id="@+id/nav_list"
+            android:icon="@android:drawable/star_big_off"
+            android:title="List" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@android:drawable/ic_menu_send"
+            android:title="Rate this App" />
+
+        <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share this App" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@android:drawable/ic_menu_info_details"
+                android:title="About" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@android:drawable/ic_lock_power_off"
+            android:title="Exit" />
+
+    </group>
+
+</menu>

@@ -1,0 +1,170 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.salemwika.andrade.salemwika.Translate">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <TextView
+        android:text="Translation Type:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textSize="18sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textStyle="normal|bold" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/radioGroup"
+        >
+        <RadioButton
+            android:text="English to Filipino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rdoEF"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:checked="true"
+            />
+        <RadioButton
+            android:text="Filipino to English"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rdoFE"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+             />
+    </RadioGroup>
+
+    <TextView
+        android:text="Text to Translate:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/radioGroup"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="42dp"
+        android:id="@+id/textView2"
+        android:textStyle="normal|bold"
+        android:textSize="18sp" />
+
+    <AutoCompleteTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/edt1"
+        android:hint="Enter Text"
+        android:layout_marginTop="17dp"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/colorPrimary"
+        android:textSize="24sp"
+        android:singleLine="true"
+        android:textColorHint="@android:color/darker_gray"
+        android:textColor="@android:color/white"
+        android:padding="5dp" />
+
+    <TextView
+        android:text="Result:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="35dp"
+        android:id="@+id/textView3"
+        android:textStyle="normal|bold"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="27dp"
+        android:id="@+id/edt2"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="24sp"
+        android:textStyle="normal|italic"
+        android:textColor="@color/colorPrimary" />
+
+
+            <ImageView
+                app:srcCompat="@drawable/salewikatrans"
+                android:id="@+id/imageView2"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/edt2"
+                android:id="@+id/ll"
+                android:layout_marginTop="15dp">
+
+
+                <Button
+                    android:text="Translate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btnTranslate"
+
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp" />
+
+                <Button
+                    android:text="Clear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btnClear"
+                    android:layout_marginRight="30dp" />
+
+
+            </LinearLayout>
+
+    <Button
+        android:text="Add to Favorites"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fab"
+        android:layout_weight="1"
+        android:layout_below="@+id/ll"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp" />
+
+    </RelativeLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>
