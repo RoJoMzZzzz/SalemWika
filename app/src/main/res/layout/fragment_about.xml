@@ -18,15 +18,16 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
             <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
                 app:srcCompat="@drawable/salewikatrans"
                 android:id="@+id/imageView5"
                 android:adjustViewBounds="true"
-                android:scaleType="fitXY" />
+                android:scaleType="fitXY"
+                android:cropToPadding="true" />
 
             <TextView
-                android:text="Salem is a hebrew word which means, COMPLETE and SAFE. Also, it was derived from the combined initials of the team; S for Sarah, A for Angel, L for Leah, E for Estela, and M for Mary."
+                android:text="Salem is a hebrew word which means, COMPLETE and SAFE. Also, it was derived from the combined initials of the team; S for Sarah, A for Angel, L for Leah, E for Estela, and M for Mary. \n\nSalemWika aims to translate whole sentences at a time, rather than just piece by piece. It uses these broader contexts to help it figure out the most relevant translation which it re-arranges and adjusts to be more like a human speaking with a proper grammar.\n\nObjectives\n\n\tTo translate complicated jargon words into Tagalog terms.\n\n\tTo promote understanding among people who are not involved in the Health Care Providers’ team.\n\n\tTo make a medium for better patient counseling.\n\n\tTo increase patient compliance by helping them understand the medications they are taking.\n\n\tTo establish a “Filipino First” culture by patronizing our very own language."
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView10"
